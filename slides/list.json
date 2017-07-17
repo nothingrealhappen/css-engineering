@@ -36,7 +36,29 @@
         "design-pattern-goal.md",
         "design-pattern-oocss.md",
         "design-pattern-smacss.md",
-      "design-pattern-bem.md",
-      "design-pattern-result.md"
-    ]
+        "design-pattern-bem.md",
+        "design-pattern-result.md"
+    ],
+    [
+        "css-module.md",
+        "css-module-goal.md",
+        "css-module-primary.md",
+        "css-module-web-component.md",
+        "css-module-scoped.md",
+        "css-module-in-js.md",
+        "css-module-result.md"
+    ],
+    [
+        "compile-optimize.md",
+        "compile-optimize-goal.md",
+        "compile-optimize-features.md",
+        "compile-optimize-result.md"
+    ],
+    [
+        "debugging.md",
+        "debugging-features.md"
+    ],
+    "summary.md",
+    "qa.md",
+    "thanks.md"
 ]
