@@ -1,4 +1,4 @@
-##  常用功能
+###  常用功能
 
 - computed panel
 - box model
@@ -10,5 +10,5 @@
 - animations panel
 - rendering panel
 - coverage
-- performance panel
-https://codepen.io/liyaodong/pen/PjgKZv
+- <a href="https://codepen.io/liyaodong/full/PjgKZv/" target="_blank">performance panel</a>
+
