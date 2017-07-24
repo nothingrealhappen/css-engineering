@@ -1,4 +1,8 @@
 <img alt="" src="resources/logos/css-modules.png" style="background-color: #fff; width: 150px;">
+<br/>
+<a href="https://css-modules.github.io/webpack-demo/" target="_blank">
+webpack demo
+</a>
 
 
 ```
